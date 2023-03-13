@@ -62,7 +62,7 @@ Connect With Me:
     <a href="https://mobile.twitter.com/BhimuPoojari7" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
      </a>
-    <a href="https://www.linkedin.com/in/yashawanth-r-750b7918b/" target="blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/mwlite/in/bhimanna-poojari-92a89525a" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
    <a href="https://instagram.com/bhimu.poojari7?igshid=YmMyMTA2M2Y=" target="blank" rel="noreferrer">
