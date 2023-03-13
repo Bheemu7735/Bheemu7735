@@ -91,15 +91,15 @@ Connect With Me:
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yashu1wwww&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashu1wwww&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Bheemu7735&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bheemu7735&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bheemu7735&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--🏆TROPHYGIF-->
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
-[![Yashu_Krish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashu1wwww&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/yashu1wwww/github-readme-activity-graph)
+[![Yashu_Krish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bheemu7735&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/Bheemu7735/github-readme-activity-graph)
 
   
  ### ✍️ Random Dev Quotes
