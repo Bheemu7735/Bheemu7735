@@ -5,7 +5,7 @@
 <p align="center">
   <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+BOT+WORLD!+;Python+With+Selenium+;Good+Sense+Of+Humour+;learning+New+Things+;Cyber+Security🎯"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+WORLD!;Good+Sense+Of+Humour+;learning+New+Things+;Govt+Job🎯"
             alt="Typing SVG"
         />
     </a>
@@ -32,8 +32,8 @@
 
 <img align="center" alt="Coding" width="450" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="gif">
 
-<h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
-<h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
+<h1 align="center">Hi 👋 I'm Bheemu</h1>
+<h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
 # 💫 About Me :
 ![](https://img.shields.io/badge/Cyber%20Security-Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
@@ -46,11 +46,10 @@
 
 - 🔭 I’m currently building My personal Projects.
 
-- 🌱 I’m currently learning more about Front End and Cloud Computing.
+- 🌱 I’m currently learning more about and Cloud Computing.
 
-- 🤔 I’m looking for help with.
+- 💻 Aws Certified Cloud Practional✔️
 
-- 💬 Ask me about.
 
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
 Connect With Me:
@@ -86,9 +85,6 @@ Connect With Me:
 <img src="https://media2.giphy.com/media/l3vRfNA1p0rvhMSvS/100.webp?cid=ecf05e477rqu5ydt6hkbcsgedhmyyget6mld1kqu1l9f4sbr&rid=100.webp&ct=g" width="120">  
   
   
-# Donate If My Projects Helps You
-[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](yashwanth6675@okhdfcbank)
-
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Bheemu7735&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
